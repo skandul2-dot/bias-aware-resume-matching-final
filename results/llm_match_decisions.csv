@@ -1,0 +1,11 @@
+resume_id,resume_domain,job_id,job_title,job_domain,llm_match_decision
+R1,Software Engineering,J1,Software Engineer,Software Engineering,Weak match
+R2,Software Engineering,J1,Software Engineer,Software Engineering,Weak match
+R3,Finance,J2,Financial Analyst,Finance,Weak match
+R4,Finance,J2,Financial Analyst,Finance,Weak match
+R5,Marketing,J3,Marketing Coordinator,Marketing,Weak match
+R6,Marketing,J3,Marketing Coordinator,Marketing,Weak match
+R7,Healthcare,J4,Clinical Data Analyst,Healthcare,Weak match
+R8,Healthcare,J4,Clinical Data Analyst,Healthcare,Weak match
+R9,Education,J5,Academic Advisor,Education,Weak match
+R10,Education,J5,Academic Advisor,Education,Weak match
